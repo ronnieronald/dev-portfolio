@@ -9,37 +9,15 @@ const proyectos = [
   {
     titulo: "Proyecto 2",
     descripcion: "Breve descripción del proyecto 2.",
-    imagen: "https://via.placeholder.com/300x200",
-    demo: "#",
+    imagen: "/assets/Picture Fotography.png",
+    demo: "",
     repo: "#"
   },
   {
     titulo: "Proyecto 3",
-    descripcion: "Breve descripción del proyecto 3.",
-    imagen: "https://via.placeholder.com/300x200",
-    demo: "#",
-    repo: "#"
-  },
-  {
-    titulo: "Proyecto 3",
-    descripcion: "Breve descripción del proyecto 3.",
-    imagen: "https://via.placeholder.com/300x200",
-    demo: "#",
-    repo: "#"
-  },
-  {
-    titulo: "Proyecto 3",
-    descripcion: "Breve descripción del proyecto 3.",
-    imagen: "https://via.placeholder.com/300x200",
-    demo: "#",
-    repo: "#"
-  },
-  
-  {
-    titulo: "Proyecto 4",
-    descripcion: "Breve descripción del proyecto 3.",
-    imagen: "https://via.placeholder.com/300x200",
-    demo: "#",
+    descripcion: "Portafolio Ana Gacia",
+    imagen: "/assets/proyect3.jpg",
+    demo: "https://portafolio-nine-topaz.vercel.app/",
     repo: "#"
   }
 ];
