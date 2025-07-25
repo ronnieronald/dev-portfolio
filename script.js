@@ -10,7 +10,7 @@ const proyectos = [
     titulo: "Proyecto 2",
     descripcion: "Breve descripción del proyecto 2.",
     imagen: "/assets/Picture Fotography.png",
-    demo: "",
+    demo: "https://picture-fotography.vercel.app/",
     repo: "#"
   },
   {
